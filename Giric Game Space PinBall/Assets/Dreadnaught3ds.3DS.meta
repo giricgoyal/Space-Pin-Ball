@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: cc4d799125449fc488858cddf6defc53
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: 0
+    100004: 1
+    100006: 2
+    100008: //RootNode
+    100010: Ffrace
+    100012: Form0
+    100014: Form100
+    100016: Form101
+    100018: Form104
+    100020: Form1040
+    100022: Form1041
+    100024: Form107
+    100026: Form111
+    100028: Form113
+    100030: Form114
+    100032: Form115
+    100034: Form117
+    100036: Form12
+    100038: Form120
+    100040: Form121
+    100042: Form122
+    100044: Form123
+    100046: Form124
+    100048: Form125
+    100050: Form15
+    100052: Form150
+    100054: Form151
+    100056: Form152
+    100058: Form153
+    100060: Form154
+    100062: Form155
+    100064: Form217
+    100066: Form29
+    100068: Form290
+    100070: Form291
+    100072: Form34
+    100074: Form340
+    100076: Form341
+    100078: Form3410
+    100080: Form3411
+    100082: Form3412
+    100084: Form3413
+    100086: Form3414
+    100088: Form3415
+    100090: Form3416
+    100092: Form3417
+    100094: Form3418
+    100096: Form3419
+    100098: Form342
+    100100: Form3420
+    100102: Form3421
+    100104: Form3422
+    100106: Form3423
+    100108: Form3424
+    100110: Form3425
+    100112: Form3426
+    100114: Form3427
+    100116: Form3428
+    100118: Form3429
+    100120: Form343
+    100122: Form344
+    100124: Form345
+    100126: Form346
+    100128: Form347
+    100130: Form348
+    100132: Form349
+    100134: Form42
+    100136: Form420
+    100138: Form421
+    100140: Form4210
+    100142: Form4211
+    100144: Form4212
+    100146: Form4213
+    100148: Form4214
+    100150: Form4215
+    100152: Form4216
+    100154: Form4217
+    100156: Form4218
+    100158: Form4219
+    100160: Form422
+    100162: Form4220
+    100164: Form4221
+    100166: Form4222
+    100168: Form4223
+    100170: Form4224
+    100172: Form4225
+    100174: Form4226
+    100176: Form4227
+    100178: Form4228
+    100180: Form4229
+    100182: Form423
+    100184: Form4230
+    100186: Form4231
+    100188: Form4232
+    100190: Form4233
+    100192: Form4234
+    100194: Form4235
+    100196: Form4236
+    100198: Form4237
+    100200: Form424
+    100202: Form425
+    100204: Form426
+    100206: Form427
+    100208: Form428
+    100210: Form429
+    100212: Form6
+    100214: Form96
+    100216: Form98
+    100218: Form99
+    100220: Glass
+    100222: Glass0
+    100224: Glass1
+    100226: Glass2
+    100228: Glass3
+    100230: Glass4
+    100232: Glass5
+    100234: Gun mo~19
+    100236: Gun mo~20
+    100238: Gun mo~21
+    100240: Gun mo~39
+    100242: Gun mo~40
+    100244: Gun mo~41
+    100246: Gun mo~60
+    100248: Gun mo~61
+    100250: Gun mo~62
+    100252: Gun mo~80
+    100254: Gun mo~81
+    100256: Gun mo~82
+    100258: Shape1
+    100260: Shape10
+    100262: Shape11
+    100264: Shape12
+    100266: Shape13
+    100268: Shape14
+    100270: Shape15
+    100272: Shape8
+    100274: Shape80
+    100276: Shape81
+    100278: Shape810
+    100280: Shape811
+    100282: Shape812
+    100284: Shape813
+    100286: Shape814
+    100288: Shape815
+    100290: Shape816
+    100292: Shape817
+    100294: Shape818
+    100296: Shape819
+    100298: Shape82
+    100300: Shape820
+    100302: Shape821
+    100304: Shape822
+    100306: Shape823
+    100308: Shape824
+    100310: Shape825
+    100312: Shape826
+    100314: Shape827
+    100316: Shape828
+    100318: Shape829
+    100320: Shape83
+    100322: Shape84
+    100324: Shape85
+    100326: Shape86
+    100328: Shape87
+    100330: Shape88
+    100332: Shape89
+    400000: ' 1'
+    400002: 0
+    400004: 1
+    400006: 2
+    400008: //RootNode
+    400010: Ffrace
+    400012: Form0
+    400014: Form100
+    400016: Form101
+    400018: Form104
+    400020: Form1040
+    400022: Form1041
+    400024: Form107
+    400026: Form111
+    400028: Form113
+    400030: Form114
+    400032: Form115
+    400034: Form117
+    400036: Form12
+    400038: Form120
+    400040: Form121
+    400042: Form122
+    400044: Form123
+    400046: Form124
+    400048: Form125
+    400050: Form15
+    400052: Form150
+    400054: Form151
+    400056: Form152
+    400058: Form153
+    400060: Form154
+    400062: Form155
+    400064: Form217
+    400066: Form29
+    400068: Form290
+    400070: Form291
+    400072: Form34
+    400074: Form340
+    400076: Form341
+    400078: Form3410
+    400080: Form3411
+    400082: Form3412
+    400084: Form3413
+    400086: Form3414
+    400088: Form3415
+    400090: Form3416
+    400092: Form3417
+    400094: Form3418
+    400096: Form3419
+    400098: Form342
+    400100: Form3420
+    400102: Form3421
+    400104: Form3422
+    400106: Form3423
+    400108: Form3424
+    400110: Form3425
+    400112: Form3426
+    400114: Form3427
+    400116: Form3428
+    400118: Form3429
+    400120: Form343
+    400122: Form344
+    400124: Form345
+    400126: Form346
+    400128: Form347
+    400130: Form348
+    400132: Form349
+    400134: Form42
+    400136: Form420
+    400138: Form421
+    400140: Form4210
+    400142: Form4211
+    400144: Form4212
+    400146: Form4213
+    400148: Form4214
+    400150: Form4215
+    400152: Form4216
+    400154: Form4217
+    400156: Form4218
+    400158: Form4219
+    400160: Form422
+    400162: Form4220
+    400164: Form4221
+    400166: Form4222
+    400168: Form4223
+    400170: Form4224
+    400172: Form4225
+    400174: Form4226
+    400176: Form4227
+    400178: Form4228
+    400180: Form4229
+    400182: Form423
+    400184: Form4230
+    400186: Form4231
+    400188: Form4232
+    400190: Form4233
+    400192: Form4234
+    400194: Form4235
+    400196: Form4236
+    400198: Form4237
+    400200: Form424
+    400202: Form425
+    400204: Form426
+    400206: Form427
+    400208: Form428
+    400210: Form429
+    400212: Form6
+    400214: Form96
+    400216: Form98
+    400218: Form99
+    400220: Glass
+    400222: Glass0
+    400224: Glass1
+    400226: Glass2
+    400228: Glass3
+    400230: Glass4
+    400232: Glass5
+    400234: Gun mo~19
+    400236: Gun mo~20
+    400238: Gun mo~21
+    400240: Gun mo~39
+    400242: Gun mo~40
+    400244: Gun mo~41
+    400246: Gun mo~60
+    400248: Gun mo~61
+    400250: Gun mo~62
+    400252: Gun mo~80
+    400254: Gun mo~81
+    400256: Gun mo~82
+    400258: Shape1
+    400260: Shape10
+    400262: Shape11
+    400264: Shape12
+    400266: Shape13
+    400268: Shape14
+    400270: Shape15
+    400272: Shape8
+    400274: Shape80
+    400276: Shape81
+    400278: Shape810
+    400280: Shape811
+    400282: Shape812
+    400284: Shape813
+    400286: Shape814
+    400288: Shape815
+    400290: Shape816
+    400292: Shape817
+    400294: Shape818
+    400296: Shape819
+    400298: Shape82
+    400300: Shape820
+    400302: Shape821
+    400304: Shape822
+    400306: Shape823
+    400308: Shape824
+    400310: Shape825
+    400312: Shape826
+    400314: Shape827
+    400316: Shape828
+    400318: Shape829
+    400320: Shape83
+    400322: Shape84
+    400324: Shape85
+    400326: Shape86
+    400328: Shape87
+    400330: Shape88
+    400332: Shape89
+    2300000: Ffrace
+    2300002: Form0
+    2300004: Form100
+    2300006: Form101
+    2300008: Form104
+    2300010: Form1040
+    2300012: Form1041
+    2300014: Form107
+    2300016: Form111
+    2300018: Form113
+    2300020: Form114
+    2300022: Form115
+    2300024: Form117
+    2300026: Form12
+    2300028: Form120
+    2300030: Form121
+    2300032: Form122
+    2300034: Form123
+    2300036: Form124
+    2300038: Form125
+    2300040: Form15
+    2300042: Form150
+    2300044: Form151
+    2300046: Form152
+    2300048: Form153
+    2300050: Form154
+    2300052: Form155
+    2300054: Form217
+    2300056: Form29
+    2300058: Form290
+    2300060: Form291
+    2300062: Form34
+    2300064: Form340
+    2300066: Form341
+    2300068: Form3410
+    2300070: Form3411
+    2300072: Form3412
+    2300074: Form3413
+    2300076: Form3414
+    2300078: Form3415
+    2300080: Form3416
+    2300082: Form3417
+    2300084: Form3418
+    2300086: Form3419
+    2300088: Form342
+    2300090: Form3420
+    2300092: Form3421
+    2300094: Form3422
+    2300096: Form3423
+    2300098: Form3424
+    2300100: Form3425
+    2300102: Form3426
+    2300104: Form3427
+    2300106: Form3428
+    2300108: Form3429
+    2300110: Form343
+    2300112: Form344
+    2300114: Form345
+    2300116: Form346
+    2300118: Form347
+    2300120: Form348
+    2300122: Form349
+    2300124: Form42
+    2300126: Form420
+    2300128: Form421
+    2300130: Form4210
+    2300132: Form4211
+    2300134: Form4212
+    2300136: Form4213
+    2300138: Form4214
+    2300140: Form4215
+    2300142: Form4216
+    2300144: Form4217
+    2300146: Form4218
+    2300148: Form4219
+    2300150: Form422
+    2300152: Form4220
+    2300154: Form4221
+    2300156: Form4222
+    2300158: Form4223
+    2300160: Form4224
+    2300162: Form4225
+    2300164: Form4226
+    2300166: Form4227
+    2300168: Form4228
+    2300170: Form4229
+    2300172: Form423
+    2300174: Form4230
+    2300176: Form4231
+    2300178: Form4232
+    2300180: Form4233
+    2300182: Form4234
+    2300184: Form4235
+    2300186: Form4236
+    2300188: Form4237
+    2300190: Form424
+    2300192: Form425
+    2300194: Form426
+    2300196: Form427
+    2300198: Form428
+    2300200: Form429
+    2300202: Form6
+    2300204: Form96
+    2300206: Form98
+    2300208: Form99
+    2300210: Glass
+    2300212: Glass0
+    2300214: Glass1
+    2300216: Glass2
+    2300218: Glass3
+    2300220: Glass4
+    2300222: Glass5
+    2300224: Gun mo~19
+    2300226: Gun mo~20
+    2300228: Gun mo~21
+    2300230: Gun mo~39
+    2300232: Gun mo~40
+    2300234: Gun mo~41
+    2300236: Gun mo~60
+    2300238: Gun mo~61
+    2300240: Gun mo~62
+    2300242: Gun mo~80
+    2300244: Gun mo~81
+    2300246: Gun mo~82
+    2300248: Shape1
+    2300250: Shape10
+    2300252: Shape11
+    2300254: Shape12
+    2300256: Shape13
+    2300258: Shape14
+    2300260: Shape15
+    2300262: Shape8
+    2300264: Shape80
+    2300266: Shape81
+    2300268: Shape810
+    2300270: Shape811
+    2300272: Shape812
+    2300274: Shape813
+    2300276: Shape814
+    2300278: Shape815
+    2300280: Shape816
+    2300282: Shape817
+    2300284: Shape818
+    2300286: Shape819
+    2300288: Shape82
+    2300290: Shape820
+    2300292: Shape821
+    2300294: Shape822
+    2300296: Shape823
+    2300298: Shape824
+    2300300: Shape825
+    2300302: Shape826
+    2300304: Shape827
+    2300306: Shape828
+    2300308: Shape829
+    2300310: Shape83
+    2300312: Shape84
+    2300314: Shape85
+    2300316: Shape86
+    2300318: Shape87
+    2300320: Shape88
+    2300322: Shape89
+    3300000: Ffrace
+    3300002: Form0
+    3300004: Form100
+    3300006: Form101
+    3300008: Form104
+    3300010: Form1040
+    3300012: Form1041
+    3300014: Form107
+    3300016: Form111
+    3300018: Form113
+    3300020: Form114
+    3300022: Form115
+    3300024: Form117
+    3300026: Form12
+    3300028: Form120
+    3300030: Form121
+    3300032: Form122
+    3300034: Form123
+    3300036: Form124
+    3300038: Form125
+    3300040: Form15
+    3300042: Form150
+    3300044: Form151
+    3300046: Form152
+    3300048: Form153
+    3300050: Form154
+    3300052: Form155
+    3300054: Form217
+    3300056: Form29
+    3300058: Form290
+    3300060: Form291
+    3300062: Form34
+    3300064: Form340
+    3300066: Form341
+    3300068: Form3410
+    3300070: Form3411
+    3300072: Form3412
+    3300074: Form3413
+    3300076: Form3414
+    3300078: Form3415
+    3300080: Form3416
+    3300082: Form3417
+    3300084: Form3418
+    3300086: Form3419
+    3300088: Form342
+    3300090: Form3420
+    3300092: Form3421
+    3300094: Form3422
+    3300096: Form3423
+    3300098: Form3424
+    3300100: Form3425
+    3300102: Form3426
+    3300104: Form3427
+    3300106: Form3428
+    3300108: Form3429
+    3300110: Form343
+    3300112: Form344
+    3300114: Form345
+    3300116: Form346
+    3300118: Form347
+    3300120: Form348
+    3300122: Form349
+    3300124: Form42
+    3300126: Form420
+    3300128: Form421
+    3300130: Form4210
+    3300132: Form4211
+    3300134: Form4212
+    3300136: Form4213
+    3300138: Form4214
+    3300140: Form4215
+    3300142: Form4216
+    3300144: Form4217
+    3300146: Form4218
+    3300148: Form4219
+    3300150: Form422
+    3300152: Form4220
+    3300154: Form4221
+    3300156: Form4222
+    3300158: Form4223
+    3300160: Form4224
+    3300162: Form4225
+    3300164: Form4226
+    3300166: Form4227
+    3300168: Form4228
+    3300170: Form4229
+    3300172: Form423
+    3300174: Form4230
+    3300176: Form4231
+    3300178: Form4232
+    3300180: Form4233
+    3300182: Form4234
+    3300184: Form4235
+    3300186: Form4236
+    3300188: Form4237
+    3300190: Form424
+    3300192: Form425
+    3300194: Form426
+    3300196: Form427
+    3300198: Form428
+    3300200: Form429
+    3300202: Form6
+    3300204: Form96
+    3300206: Form98
+    3300208: Form99
+    3300210: Glass
+    3300212: Glass0
+    3300214: Glass1
+    3300216: Glass2
+    3300218: Glass3
+    3300220: Glass4
+    3300222: Glass5
+    3300224: Gun mo~19
+    3300226: Gun mo~20
+    3300228: Gun mo~21
+    3300230: Gun mo~39
+    3300232: Gun mo~40
+    3300234: Gun mo~41
+    3300236: Gun mo~60
+    3300238: Gun mo~61
+    3300240: Gun mo~62
+    3300242: Gun mo~80
+    3300244: Gun mo~81
+    3300246: Gun mo~82
+    3300248: Shape1
+    3300250: Shape10
+    3300252: Shape11
+    3300254: Shape12
+    3300256: Shape13
+    3300258: Shape14
+    3300260: Shape15
+    3300262: Shape8
+    3300264: Shape80
+    3300266: Shape81
+    3300268: Shape810
+    3300270: Shape811
+    3300272: Shape812
+    3300274: Shape813
+    3300276: Shape814
+    3300278: Shape815
+    3300280: Shape816
+    3300282: Shape817
+    3300284: Shape818
+    3300286: Shape819
+    3300288: Shape82
+    3300290: Shape820
+    3300292: Shape821
+    3300294: Shape822
+    3300296: Shape823
+    3300298: Shape824
+    3300300: Shape825
+    3300302: Shape826
+    3300304: Shape827
+    3300306: Shape828
+    3300308: Shape829
+    3300310: Shape83
+    3300312: Shape84
+    3300314: Shape85
+    3300316: Shape86
+    3300318: Shape87
+    3300320: Shape88
+    3300322: Shape89
+    4300000: Form12
+    4300002: Form15
+    4300004: Form34
+    4300006: Form42
+    4300008: Glass
+    4300010: Gun mo~19
+    4300012: Gun mo~20
+    4300014: Gun mo~21
+    4300016: Shape1
+    4300018: Shape8
+    4300020: Gun mo~39
+    4300022: Gun mo~40
+    4300024: Gun mo~41
+    4300026: Gun mo~60
+    4300028: Gun mo~61
+    4300030: Gun mo~62
+    4300032: Gun mo~80
+    4300034: Gun mo~81
+    4300036: Gun mo~82
+    4300038: Ffrace
+    4300040: Form0
+    4300042: Form100
+    4300044: Form101
+    4300046: Form104
+    4300048: Form107
+    4300050: Form111
+    4300052: Form113
+    4300054: Form114
+    4300056: Form115
+    4300058: Form117
+    4300060: Form217
+    4300062: Form29
+    4300064: Form6
+    4300066: Form96
+    4300068: Form98
+    4300070: Form99
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
